@@ -1,0 +1,13 @@
+{
+  "viewportWidth": 1600,
+  "viewportHeight": 800,
+  "failOnStatusCode": false,
+  "reporter": "cypress-awesome-testrail",
+  "reporterOptions": {
+    "domain": "https://hotels.testrail.io",
+    "username": "irinalesak@gmail.com",
+    "password": "D7/5bDLbT8Xhuhf/eIzl",
+    "projectId": "2",
+    "testRunId": "24"
+  }
+}

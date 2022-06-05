@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^9.5.4"
+  },
+  "dependencies": {
+    "cypress-awesome-testrail": "^1.0.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3"
+  }
+}
